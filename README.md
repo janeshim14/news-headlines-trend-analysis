@@ -6,11 +6,11 @@ This repository provides **sample headline data** accompanying the paper *Long-T
 ```text
 data/
  └─ sample/
-     ├─ nyt_sample.csv
-     ├─ lat_sample.csv
-     ├─ wsj_sample.csv
-     ├─ fox_sample.csv
-     └─ msnbc_sample.csv
+     ├─ nyt_headlines_2021_2022_sample.csv
+     ├─ lat_headlines_2021_2022_sample.csv
+     ├─ wsj_headlines_2021_2022_sample.csv
+     ├─ foxnews_headlines_2021_2022_sample.csv
+     └─ msnbc_headlines_2021_2022_sample.csv
 ```
 
 ## Data Description
