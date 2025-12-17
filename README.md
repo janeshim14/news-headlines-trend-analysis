@@ -33,4 +33,4 @@ The sample data preserves the original data structure used in the full analysis,
 
 ## Data Availability
 Due to copyright restrictions, the full headline dataset cannot be shared publicly.
-The full dataset may be made available upon reasonable request for **non-commercial academic research purposes only**.
+The full dataset may be made available upon request for **non-commercial academic research purposes only**.
